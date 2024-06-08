@@ -1,6 +1,6 @@
 # Dengue-Mosquito-Detection-Using-Matlab
 
-## Project Overview
+### Project Overview
 
 ### Motivation
 Dengue fever is a major public health concern in Sri Lanka, causing significant morbidity and mortality. Effective control of dengue-carrying mosquitoes is crucial to reducing the incidence of the disease. This project aims to develop a method for detecting dengue mosquitoes using their characteristic wingbeat frequencies, leveraging digital signal processing techniques.
@@ -47,6 +47,5 @@ This project showcases the effectiveness of digital signal processing in identif
 ---
 
 **Project by:** Y.A.D.J.H.Yapa
-
 **Institution:** University of Jaffna  
 **Module:** EC5011-Digital Signal Processing (5th Semester)
