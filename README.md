@@ -46,6 +46,6 @@ This project showcases the effectiveness of digital signal processing in identif
 
 ---
 
-**Project by:** [Your Name]  
+**Project by:** Y.A.D.J.H.Yapa 
 **Institution:** University of Jaffna  
-**Module:** Digital Signal Processing (5th Semester)
+**Module:** EC5011-Digital Signal Processing (5th Semester)
