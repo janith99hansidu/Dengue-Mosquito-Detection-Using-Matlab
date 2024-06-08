@@ -2,6 +2,9 @@
 
 ### Project Overview
 
+![Dengue](https://github.com/janith99hansidu/Dengue-Mosquito-Detection-Using-Matlab/blob/main/images/dengue.png)
+<a href="https://www.freepik.com/free-vector/no-mosquito-sign-white_19394676.htm#query=dengue&position=0&from_view=keyword&track=sph&uuid=c4e6cd51-8951-425f-9dc4-babb1e29f1b7">Image by brgfx</a> on Freepik
+
 ### Motivation
 Dengue fever is a major public health concern in Sri Lanka, causing significant morbidity and mortality. Effective control of dengue-carrying mosquitoes is crucial to reducing the incidence of the disease. This project aims to develop a method for detecting dengue mosquitoes using their characteristic wingbeat frequencies, leveraging digital signal processing techniques.
 
