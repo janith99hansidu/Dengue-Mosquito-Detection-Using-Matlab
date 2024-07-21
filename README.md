@@ -42,11 +42,6 @@ The project successfully identifies dengue mosquitoes with an accuracy of 86.6%.
 ## Conclusion
 This project showcases the effectiveness of digital signal processing in identifying dengue mosquitoes. The high accuracy rates achieved indicate that this method can be a valuable tool in the fight against dengue fever in Sri Lanka.
 
-## Future Work
-- **Real-time Detection:** Implementing real-time detection capabilities for field use.
-- **Improved Accuracy:** Enhancing the detection algorithm to further improve accuracy rates.
-- **Broader Applications:** Exploring the application of this technique to other mosquito-borne diseases.
-
 ---
 
 **Project by:** Y.A.D.J.H.Yapa
