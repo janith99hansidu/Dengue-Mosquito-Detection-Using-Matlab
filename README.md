@@ -32,7 +32,7 @@ This project was undertaken as part of the Digital Signal Processing module in t
 2. **Preprocessing:** Clean and prepare the recorded sound signals for analysis.
 3. **Frequency Analysis:** Apply Fourier Transform to convert time-domain signals to frequency domain.
 4. **Band Identification:** Identify and isolate the characteristic frequency bands of dengue mosquitoes.
-5. **Classification:** Use machine learning algorithms to classify the mosquitoes based on their frequency domain characteristics.
+5. **Classification:** Use Band-pass filters to classify the mosquitoes based on their frequency domain characteristics.
 
 ## Results
 The project successfully identifies dengue mosquitoes with an accuracy of 86.6%. The methodology demonstrates a significant potential for practical applications in dengue mosquito control and public health surveillance.
